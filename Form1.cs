@@ -151,7 +151,7 @@ namespace bd3
 
         private void dell_Click(object sender, EventArgs e)
         {
-            if (dataGridView1.SelectedRows.Count == 0)
+            if (dataGridView2.SelectedRows.Count == 0)
             {
                 DialogResult drе = MessageBox.Show("Нет записей", "Лол", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
