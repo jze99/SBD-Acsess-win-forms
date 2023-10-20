@@ -24,3 +24,16 @@ C:\Users\jze9\Desktop\programs\c#\bd3\bin\x64\Release\test.accdb
 C:\Users\jze9\Desktop\programs\c#\bd3\bin\x64\Release\bd3.exe.config
 C:\Users\jze9\Desktop\programs\c#\bd3\bin\x64\Release\bd3.exe
 C:\Users\jze9\Desktop\programs\c#\bd3\bin\x64\Release\bd3.pdb
+C:\Users\Jze9\Documents\GitHub\SUBD-Acsess-win-forms\bin\x64\Release\test.accdb
+C:\Users\Jze9\Documents\GitHub\SUBD-Acsess-win-forms\bin\x64\Release\bd3.exe.config
+C:\Users\Jze9\Documents\GitHub\SUBD-Acsess-win-forms\bin\x64\Release\bd3.exe
+C:\Users\Jze9\Documents\GitHub\SUBD-Acsess-win-forms\bin\x64\Release\bd3.pdb
+C:\Users\Jze9\Documents\GitHub\SUBD-Acsess-win-forms\obj\x64\Release\bd3.csproj.AssemblyReference.cache
+C:\Users\Jze9\Documents\GitHub\SUBD-Acsess-win-forms\obj\x64\Release\bd3.AddForm.resources
+C:\Users\Jze9\Documents\GitHub\SUBD-Acsess-win-forms\obj\x64\Release\bd3.ChangeForm.resources
+C:\Users\Jze9\Documents\GitHub\SUBD-Acsess-win-forms\obj\x64\Release\bd3.Form1.resources
+C:\Users\Jze9\Documents\GitHub\SUBD-Acsess-win-forms\obj\x64\Release\bd3.Properties.Resources.resources
+C:\Users\Jze9\Documents\GitHub\SUBD-Acsess-win-forms\obj\x64\Release\bd3.csproj.GenerateResource.cache
+C:\Users\Jze9\Documents\GitHub\SUBD-Acsess-win-forms\obj\x64\Release\bd3.csproj.CoreCompileInputs.cache
+C:\Users\Jze9\Documents\GitHub\SUBD-Acsess-win-forms\obj\x64\Release\bd3.exe
+C:\Users\Jze9\Documents\GitHub\SUBD-Acsess-win-forms\obj\x64\Release\bd3.pdb
